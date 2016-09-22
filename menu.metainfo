@@ -1,0 +1,39 @@
+--- name:paths
+
+Symposium2010:
+  in_menu: true
+  sort_info: 10
+
+Symposium2010.cs:
+  in_menu: true
+  sort_info: 10
+
+Symposium2010.pl:
+  in_menu: true
+  sort_info: 10
+
+Symposium2011:
+  in_menu: true
+  sort_info: 9
+
+Symposium2011.cs:
+  in_menu: true
+  sort_info: 9
+
+Symposium2011.pl:
+  in_menu: true
+  sort_info: 9
+
+Symposium2013:
+  in_menu: true
+  sort_info: 7
+
+Symposium2013.cs:
+  in_menu: true
+  sort_info: 7
+
+Symposium2013.pl:
+  in_menu: true
+  sort_info: 7
+ 
+--- name:alcn

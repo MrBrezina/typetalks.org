@@ -1,0 +1,26 @@
+---
+title: Venue
+in_menu: true
+sort_info: 5
+link: {javascript: ["http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js", "../_ss/fadeslideshow.js", "_ss/SymposiumSlideshow.js"]}
+---
+
+## The Venue ##
+
+The symposium will take place in the historical centre of [Brno](http://oko.brno.cz/index.php?lan=en) in the House of the Lords of Kunštát (Dům Pánů z Kunštátu). This arcaded palace comprises several buildings around central yard and it is one of a few well-preserved renaissance sights in Brno. The complex owned by [The Brno House of Arts](http://www.dum-umeni.cz/) hosts a café in the yard and there are many nice restaurants and pubs around. Some of them offer nice food and most of them offer very good beer or wine.
+The House is within a walking distance from the bus and train stations.
+
+Brno has an international airport, and it is accessible by direct trains from
+Prague (2.5 hours), Berlin (around 7 hours), Vienna (3 hours), or Bratislava (2 hours), …
+
+[Location of the venue on Google Maps](http://maps.google.cz/maps/ms?hl=cs&client=safari&ie=UTF8&brcurrent=5,0,0&msa=0&msid=112708760977799541743.000483954a01c3fed4139&ll=49.193012,16.606497&spn=0.001553,0.002288&z=19)
+
+[Czech Railways website](http://www.cd.cz/)
+
+![Dům Pánů z Kunštátu 1](_images/venue1.jpg)
+The House of the Lords of Kunštát (Dům Pánů z Kunštátu)
+Photo courtesy of [The Brno House of Arts](http://www.dum-umeni.cz/)
+
+![Dům Pánů z Kunštátu 2](_images/venue2.jpg)
+The presentation hall  
+Photo courtesy of [The Brno House of Arts](http://www.dum-umeni.cz/)

@@ -1,0 +1,52 @@
+---
+title: Venues
+in_menu: true
+sort_info: 7
+link: {javascript: ["http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js", "../_ss/fadeslideshow.js", "_ss/SymposiumSlideshow.js"]}
+---
+
+## Venues ##
+
+The symposium will take place in the historical centre of [Brno](http://oko.brno.cz/index.php?lan=en) in the Museum of Applied Arts (Uměleckoprůmyslové muzeum) and in café Kabaret Špaček. There are many nice restaurants and pubs around. Some of them offer nice food and most of them offer very good beer or wine.
+Both venues are within a walking distance from the bus and train stations.
+
+Brno has an international airport served by several low-cost agencies (RyanAir, WizzAir, …) and it is well connected with international airports in Vienna, Prague, and Bratislava. It is also easily accessed by direct trains from Prague (~ 2.5 hours), Berlin (~ 7 hours), Vienna (2 hours), Katowice (3 hours), Warszaw (7 hours), or Bratislava (2 hours), …
+
+### TypeTalks: Museum of Applied Arts ###
+{:#TypeTalks}
+
+The monumental, quasi-historical building on the Brno ring road was purpose-built in 1882 to accommodate the oldest museum of applied arts in Bohemia and Moravia. The museum houses a permanent exhibition of applied arts from the Middle Ages to the present day, comprised of collections of glass, ceramics and porcelain, textiles, furniture and metalware. In addition to seeing the traditional displays visitors can take a virtual tour of the museum exhibits accessible through the Microgallery. The building also contains rooms for temporary exhibitions and The Camera, being the only exhibition facility dedicated exclusively to photography within the Czech art museums.
+
+[The Museum of Applied Arts](http://moravska-galerie.cz/moravska-galerie/navsteva-mg/budovy-mg/umeleckoprumyslove-muzeum.aspx?lang=en) has a lecture room seating 100 people and visitors can use the services of a museum shop and a café with Internet access.
+
+![Museum of Applied Arts](_images/venue_umprum_1.jpg)
+![Museum of Applied Arts](_images/venue_umprum_2.jpg)
+
+**Address:**\\
+Husova 14\\
+662 26 Brno\\
+[Google maps](http://goo.gl/maps/esT6Q)
+
+
+### TypeShorts: Kabaret Špaček ###
+{:#TypeShorts}
+
+Kabaret Špaček is a small non-smoking restaurant, café and cabaret near the city centre and close to the main venue. Learn more on [their page](http://kabaretspacek.cz/).
+
+![Kabaret Špaček](_images/venue_kabaretspacek_1.jpg)
+![Kabaret Špaček](_images/venue_kabaretspacek_2.jpg)
+
+**Address:**\\
+Kopečná 46\\
+Brno\\
+[Google maps](http://goo.gl/maps/o66Pd)
+
+
+### Eating and drinking elsewhere ###
+
+We have prepared a Google map with our favourite eating and drinking places for you:
+
+[Food, coffee, beer, and wine in Brno](http://goo.gl/maps/tY6A0)
+
+--- name:sponsors
+{include_file: {filename: src/Symposium2013/Sponsors.md}}

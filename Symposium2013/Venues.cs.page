@@ -1,0 +1,50 @@
+---
+title: Místa konání
+in_menu: true
+sort_info: 7
+link: {javascript: ["http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js", "../_ss/fadeslideshow.js", "_ss/SymposiumSlideshow.js"]}
+---
+
+## Místa konání ##
+
+Symposium se bude konat v samém historickém centru města Brna, v Uměleckoprůmyslovém muzeu (Moravská galerie) a v Kabaretu Špaček. V okolí se nachází množství restaurací a hospod, některé z nich oplývají dobrým jídlem, mnohé dobrým pivem nebo vínem. Muzeum i kabaret jsou jen pár minut chůze od vlakového či autobusového nádraží.
+
+Brno má mezinárodní letiště a je dosažitelné přímými vlaky z Prahy (~ 2,5 hodiny), Berlína (~ 7 hodin), Vídně (2 hodiny), Katowic (3 hodiny), Varšavy (7 hodin) či Bratislavy (2 hodiny).
+
+### TypeTalks: Uměleckoprůmyslové muzeum ###
+{:#TypeTalks}
+
+V budově Uměleckoprůmyslového muzea se nachází stálá expozice užitého umění od středověku po současnost, zastoupeny jsou sbírky skla, keramiky a porcelánu, textilu, nábytku, kovů a grafického designu. Kromě klasické expozice mají návštěvníci možnost absolvovat virtuální prohlídku muzejních exponátů soustředěných v tzv. mikrogalerii. Vedle sálů pro krátkodobé výstavy je zde Camera, jediný stabilní výstavní prostor věnovaný výhradně fotografii v rámci českých muzeí umění.
+
+[Uměleckoprůmyslové muzeum](http://moravska-galerie.cz/moravska-galerie/navsteva-mg/budovy-mg/umeleckoprumyslove-muzeum.aspx) disponuje přednáškovým sálem s kapacitou 100 míst. Návštěvníkům slouží muzejní obchod s širokou nabídkou publikací o výtvarném umění a kavárna s internetem.
+
+![Museum of Applied Arts](_images/venue_umprum_1.jpg)
+![Museum of Applied Arts](_images/venue_umprum_2.jpg)
+
+**Adresa:**\\
+Husova 14\\
+662 26 Brno\\
+[Google maps](http://goo.gl/maps/esT6Q)
+
+### TypeShorts: Kabaret Špaček ###
+{:#TypeShorts}
+
+Kabaret Špaček je malá nekuřácká restaurace, kavárna a kabaret skoro v centru města a v těsné blízkosti místa konání hlavních přednášek. Více naleznete na [stránce kabaretu](http://kabaretspacek.cz/).
+
+![Kabaret Špaček](_images/venue_kabaretspacek_1.jpg)
+![Kabaret Špaček](_images/venue_kabaretspacek_2.jpg)
+
+**Address:**\\
+Kopečná 46\\
+Brno\\
+[Google maps](http://goo.gl/maps/o66Pd)
+
+
+### Jídlo a pití jinde ###
+
+Připravili jsme pro vás Google mapu s našimi oblíbenými místy:
+
+[Food, coffee, beer, and wine in Brno](http://goo.gl/maps/tY6A0)
+
+--- name:sponsors
+{include_file: {filename: src/Symposium2013/Sponsors.cs.md}}

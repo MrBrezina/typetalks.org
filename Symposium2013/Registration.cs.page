@@ -1,0 +1,181 @@
+---
+title: Registrace
+in_menu: false
+sort_info: 6
+link: {javascript: ["http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js", "../_ss/fadeslideshow.js", "_ss/SymposiumSlideshow.js"]}
+---
+
+## Registrace ##
+
+Online registrace probíhá přes PayPalova tlačítka níže (jsou napojena na e-shop písmolijny Rosetta, je možné platit přímo kartou). Pokud chcete raději zaplatit bankovním převodem, prostudujte si [pokyny níže](#BankTransfer). Během několika dnů po obdržení platby vystavíme fakturu. Před konferencí obdržíte informační email.
+
+Pro získání slevy musí studenti v místě konání předložit svůj studentský průkaz.
+
+Cena zahrnuje DPH. Pokud jste registrování jako plátci DPH, napište nám email s vaším IČ a DIČ a my obratem vystavíme odpovídající fakturu.
+
+Cena nezahrnuje ubytování ani stravování. Workshopy jsou placeny zvlášť. Změna programu vyhrazena. Neočekávaná změna programu nezakládá právo na vrácení vstupného. Vrácení vstupného je možné nejpozději měsíc před začátkem akce (za manipulační poplatek).
+{:.gray}
+
+
+<table cellspacing="0" cellpadding="0">
+<thead>
+  <tr>
+    <th colspan="2">TypeTalks</th>
+  </tr>
+</thead>
+<tbody>    
+    <tr>
+        <td class="td-date toprule" markdown="span">
+          **Předprodej**\\
+          Do 3. června
+        </td>
+        <td class="td-content toprule gray" markdown="span">
+          Vyprodáno
+        </td>
+    </tr>
+    <tr>
+        <td class="td-date toprule" markdown="span">
+          **Běžná cena**\\
+          Do 9. srpna
+        </td>
+        <td class="td-content toprule gray" markdown="0">
+					Vyprodáno
+          <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick" />
+            <input type="hidden" name="hosted_button_id" value="DBSXFNPQ5ZWZY" />
+            <input type="hidden" name="on0" value="Type" />
+            <select name="os0">
+            	<option value="Student">Student 44.00 € (~ 1140 Kč) – dotuje  Rosetta</option>
+            	<option value="Professional">Profesionál 64.00 € (~ 1660 Kč)</option>
+            </select>
+            <input type="hidden" name="currency_code" value="EUR" /><br />
+            <input type="submit" border="0" name="submit" value="Koupit" alt="Koupit přes PayPal" />
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+          </form> -->
+        </td>
+    </tr>
+    <tr>
+        <td class="td-date toprule" markdown="span">
+          **Na poslední chvíli**\\
+          Do 3. září
+        </td>
+        <td class="td-content toprule" markdown="span">
+          Vyprodáno
+          <!-- <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+            <input type="hidden" name="cmd" value="_s-xclick" />
+            <input type="hidden" name="hosted_button_id" value="JEQRLQA49YUAG" />
+            <input type="hidden" name="on0" value="Type" />
+            <select name="os0">
+            	<option value="Student">Student 54 € (~ 1405 Kč) – dotuje  Rosetta</option>
+            	<option value="Professional">Profesionál 74 € (~ 1925 Kč)</option>
+            </select>
+            <input type="hidden" name="currency_code" value="EUR" /><br />
+            <input type="submit" border="0" name="submit" value="Koupit" alt="Koupit přes PayPal" />
+            <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+          </form>
+          <strong class="red">Zbývá {include_file: {filename: src/Symposium2013/_TypeTalksPlaces.txt}} míst.</strong> -->
+        </td>
+    </tr>
+</tbody>
+</table>
+
+**Cena zahrnuje:**
+vstup na TypeTalks a občerstvení v průběhu akce,
+goodie bag.
+
+
+
+<table cellspacing="0" cellpadding="0">
+<thead>
+  <tr>
+    <th colspan="2">TypeTalks + TypeShorts</th>
+  </tr>
+</thead>
+<tbody>    
+    <tr>
+        <td class="td-date toprule" markdown="span">
+          **Předprodej**\\
+          Do 3. června
+        </td>
+        <td class="td-content toprule gray">
+          Vyprodáno
+        </td>
+    </tr>
+    <tr>
+        <td class="td-date toprule" markdown="span">
+          **Běžná cena**\\
+          Do 9. srpna
+        </td>
+        <td class="td-content toprule gray">
+          Vyprodáno
+        </td>
+    </tr>
+    <tr>
+        <td class="td-date toprule" markdown="span">
+          **Na poslední chvíli**\\
+          Do 3. září
+        </td>
+        <td class="td-content toprule gray" markdown="span">
+          Vyprodáno
+        	<!--
+          Profesionál: **78 € (~ 2030 Kč)**\\
+          Student: **58 € (~ 1510 Kč)**
+        	-->
+				</td>
+    </tr>
+</tbody>
+</table>
+
+**Cena zahrnuje:**
+vstup na TypeTalks a občerstvení v průběhu akce,
+vstup na večer TypeShorts, občerstvení, a tři nápoje (pivo nebo podobné),
+goodie bag.
+
+
+
+<table cellspacing="0" cellpadding="0">
+<thead>
+  <tr>
+    <th colspan="2">TypeShorts</th>
+  </tr>
+</thead>
+<tbody>    
+    <tr>
+        <td class="td-date toprule" markdown="span">
+          **Normal bird**
+        </td>
+        <td class="td-content toprule gray" markdown="span">
+          Vyprodáno
+        	<!--
+          Profesionál/student: **10 € (~ 250 Kč)**\\
+          **Ke koupi na místě, budou-li volná místa.**{:.red}
+        	-->
+        </td>
+    </tr>
+</tbody>
+</table>
+
+**Cena zahrnuje:**
+vstup na večer TypeShorts, občerstvení, a tři nápoje (pivo nebo podobné).
+
+
+### Platba bankovním převodem ###
+{:#BankTransfer}
+
+Důležité: pokud chcete získat slevu na registraci, musí platba dorazit **před odpovídající uzávěrkou**. Vyžadujeme navíc platbu během pěti dnů od vystavení faktury. Objednávka je považována za kompletní pouze po jejím uhrazení na náš bankovní účet.
+
+**Postup:**
+
+1. Napište nám email s detaily objednávky (jméno, adresu, fakturační údaje, množství a typ registrace, a u skupin jména všech účastníků) na <info@typetalks.org>.
+2. Obratem potvrdíme dostupnost a cenu v Kč a vystavíme fakturu.
+3. Zaplatíte na bankovní účet uvedený níže.
+4. Platbu potvrdíme hned po jejím obdržení.
+
+**Banka:** Raiffeisenbank  
+**Číslo účtu:** 7395715001/5500  
+**Jméno:** Rosetta Type Foundry s.r.o.
+
+Do pole popis prosím vyplňte: "TypeTalks &lt;vaše jméno&gt;". Usnadníte nám tím identifikaci plateb
+
+--- name:sponsors
+{include_file: {filename: src/Symposium2013/Sponsors.cs.md}}

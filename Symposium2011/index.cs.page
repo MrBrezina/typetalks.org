@@ -1,0 +1,20 @@
+---
+title: Úvod
+in_menu: true
+sort_info: 1
+routed_title: Symposium 2011
+link: {javascript: ["http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js", "../_ss/fadeslideshow.js", "_ss/SymposiumSlideshow.js"]}
+---
+
+## TypeTalks 2<br />Poznań, So–Ne 18–19. června 2011 ##
+
+Dvoudenní přednáškové symposium TypeTalks se uskutečnilo **v polské Poznani 18–19. června 2011**.
+
+Více informací o tomto symposiu je k dispozici v [polštině](index.ps.html) a [angličtině](index.en.html).
+
+
+### Oficiální trailer ###
+
+<iframe src="http://player.vimeo.com/video/24812614?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff"
+width="450" height="253" frameborder="0" class="animation">
+</iframe>

@@ -1,0 +1,15 @@
+---
+title: Gastronomia
+in_menu: true
+sort_info: 15
+link: {javascript: ["http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js", "../_ss/fadeslideshow.js", "_ss/SymposiumSlideshow.js"]}
+---
+
+## Gastronomia ##
+
+Pobliskie restauracje przygotowały dla uczestników symposjum specjalną ofertę.
+
+* **Tinta Bar**/ [http://www.tintabar.pl](http://www.tintabar.pl/articles.php?cont=articles&id=5)<br />10% zniżki oraz możliwość rezerwacji stolika, Internet Wi-Fi,<br />tel. +48 61 853 21 10
+* **Restauracja Zielony Smok**/ [http://www.zielony-smok.pl/](http://www.zielony-smok.pl/)<br />zniżka oraz możliwość rezerwacji stolika, Internet Wi-Fi,<br />tel. +48 61 851 35 95
+* **Green Way**/ [http://www.greenway.pl](http://www.greenway.pl/pl/dystrybutorzy/wielkopolskie/poznan23lutego)<br />bar wegetariański
+{:.lines}

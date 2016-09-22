@@ -1,0 +1,104 @@
+---
+title: TypeShorts
+in_menu: true
+sort_info: 4
+link: {javascript: ["http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js", "../_ss/fadeslideshow.js", "_ss/SymposiumSlideshow.js"]}
+---
+
+## TypeShorts™ ##
+
+TypeShorts jsou večerem plným krátkých písmařských a designerských prezentací v uvolněné atmosféře kavárny/hospody/galerie (ne nepodobné Pecha Kucha, ale bez formálních omezení a s nápoji). Přednáší studenti, designeři, učitelé, vědci. Je vítán kdokoliv kdo se rád podělí o svoje nadšení pro písmo a grafický design. Každá prezentace trvá 321 sekund. Přednášky jsou v českém, slovenském, nebo anglickém jazyce. Forma vystoupení může být sebeprezentační či naučná, může se jednat o přednášku či promítání filmu. Naším cílem je nabídnout co nejdemokratičtější pódium a proto přednášky kurátorsky neomezujeme jen minimálně.
+
+[Více na miniwebu TypeShorts](http://typeshorts.org){:.button}
+
+
+### TypeShorts prográmek ###
+{:#Presentations}
+
+<table cellspacing="0" cellpadding="0">
+<thead>
+    <tr>
+        <th colspan="2">Pátek, 6. září (Kabaret Špaček)</th>
+    </tr>
+</thead>
+<tbody>
+  <tr>
+      <td class="td-time toprule" markdown="span">
+          17:02–17:29
+          </td>
+      <td class="td-content toprule" markdown="span">
+          Akreditace, výdej vstupenek atp.
+      </td>
+  </tr>   
+	<tr>
+    	<td class="td-time toprule talks" markdown="span" rowspan="3">17:30–20:00</td>
+		  <td class="td-content toprule talks" markdown="span">Michael Hernan (UK) / [web](http://www.sitehernan.com/)  
+        **Designing type in a larger Em Box**</td>
+    </tr>
+    <tr>
+       	<td class="td-content talks" markdown="span">Lucie Hodická (CZ)  
+       	**Jaroslav Benda. Typograf a knižní grafik** *</td>
+    </tr>
+    <tr>
+       	<td class="td-content talks" markdown="span">Martin Pecina (CZ) / [web](http://www.book-design.eu/)  
+       	**The Very Best Type Specimen for the Very Poorest of the Poor Designers**</td>
+    </tr>
+	<tr>
+       	<td class="td-time toprule" markdown="span">17:50–18:10</td>
+       	<td class="td-content toprule" markdown="span">Přestávka na vodu</td>  
+    </tr>
+	<tr>
+      	<td class="td-time toprule talks" markdown="span" rowspan="4">18:10–18:30</td>
+		<td class="td-content toprule talks" markdown="span">Rainer Erich Scheichelbauer (AT) / [web](http://mekkablue.com/)  
+        **Font gamification**</td>
+    </tr>
+    <tr>
+        <td class="td-content talks" markdown="span">Andrej Dieneš (SK) / [web](http://adtypo.com)  
+        **Písmo pro šport** \*\*</td>
+    </tr>
+    <tr>
+        <td class="td-content talks" markdown="span">Lukáš Pevný/Matěj Málek (CZ) / [FI MUNI](http://fi.muni.cz/)  
+        **Práce studentů AGDM na Fakultě informatiky MU** \*</td>
+    </tr>
+    <tr>
+        <td class="td-content talks" markdown="span">Vít Zemčík (CZ/NOR/UK) / [web](http://www.vitzemcik.com/)  
+        **Teasers for TEDx**</td>
+    </tr>
+	<tr>
+        <td class="td-time toprule" markdown="span">18:30–19:00</td>
+        <td class="td-content toprule" markdown="span">Přestávka na pivo</td>  
+    </tr>
+    <tr>
+      	<td class="td-time toprule talks" markdown="span" rowspan="3">19:00–19:20</td>
+		<td class="td-content toprule talks" markdown="span">Barbara Bigosińska (PL) / [web](http://bbigosinska.blogspot.cz/)  
+        **Climbing up on Mala**</td>
+    </tr>
+    <tr>
+        <td class="td-content talks" markdown="span">Robert Kravjanszki (HU) / [web](http://font.hu/)  
+        **Pan Knyihar**</td>
+    </tr>
+    <tr>
+        <td class="td-content talks" markdown="span">Pavel Frič (CZ) / [web](https://www.facebook.com/monsterscz)  
+        **Monsters** \*</td>
+    </tr>
+	  <tr>
+        <td class="td-time toprule" markdown="span">19:20–19:42</td>
+        <td class="td-content toprule" markdown="span">Přestávka na druhé pivo</td>  
+    </tr>
+    <tr>
+      	<td class="td-time toprule talks" markdown="span">19:42–19:53</td>
+		    <td class="td-content toprule talks" markdown="span">Jacek Mrowczyk (PL) / [2+3D](http://www.2plus3d.pl/)  
+		    **From print to screen. From local to global.**
+		    *About the new digital edition of 2+3D design magazine*</td>
+    </tr>
+	  <tr>
+        <td class="td-time toprule" markdown="span">19:56</td>
+        <td class="td-content toprule" markdown="span">Konec</td>  
+    </tr>
+</tbody>
+</table>
+
+Přednášky budou česky (*), slovensky (\*\*), a anglicky. **Překlad nebude k dispozici.** Změna programu vyhrazena.
+
+--- name:sponsors
+{include_file: {filename: src/Symposium2013/Sponsors.cs.md}}

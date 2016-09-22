@@ -1,0 +1,12 @@
+---
+title: Registration (Sold Out)
+in_menu: false
+sort_info: 5
+link: {javascript: ["http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js", "../_ss/fadeslideshow.js", "_ss/SymposiumSlideshow.js"]}
+---
+
+## Registration option sold out ##
+
+It seems that this registration option has already sold out. Please, have a look at [other options](Registration.html). Do not hesitate to email us if this seems to be an error.
+
+Vypadá to, že tento typ registrace je již vyprodaný. Zkuste se podívat na [jiné možnosti](Registration.cs.html). Neváhejte nám napsat, pokud se vám zdá, že se někde stala chyba.

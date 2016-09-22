@@ -1,0 +1,20 @@
+---
+title: Accommodation
+in_menu: true
+sort_info: 8
+link: {javascript: ["http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js", "../_ss/fadeslideshow.js", "_ss/SymposiumSlideshow.js"]}
+---
+
+## Accommodation ##
+
+We do not assist with accommodation bookings, however here is a short list of hotels on various levels:
+
+* [Hotel Jonathan](http://www.hoteljonathan.cz/)—comfortable family hotel located around 16.5 minutes from the venue (by public transport). It is the official sponsor of the symposium and offers 15% discount for all participants. Book via email (<info@hoteljonathan.cz>) and simply mention that you are attending TypeTalks symposium.
+* [Hotel pod Špilberkem](http://www.hotelpodspilberkem.cz/cz/index.html)—central hotel in close proximity of the Brno castle and the venue
+* [Hotel Avion](http://www.avion-hotel.cz/)—this central hotel is an icon of modernist architecture and one of the narrowest hotels in Europe, however be warned the accommodation is very very spartan.
+{:.lines}
+
+[More hotels in a close proximity of the venue via Google](http://maps.google.cz/maps/mm?q=hotel&hl=cs&cd=4&ei=j3y7S6a5K46e_ga0lb0d&ie=UTF8&view=map&ved=0CFEQgAc&sa=X)
+
+--- name:sponsors
+{include_file: {filename: src/Symposium2013/Sponsors.md}}

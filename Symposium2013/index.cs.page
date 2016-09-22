@@ -1,0 +1,167 @@
+---
+title: Úvod
+in_menu: true
+sort_info: 1
+routed_title: Symposium 2013
+link: {javascript: ["http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js", "../_ss/fadeslideshow.js", "_ss/SymposiumSlideshow.js"]}
+---
+
+## TypeTalks 3<br />Brno, 6–7. září 2013 ##
+
+Dvoudenní symposium se uskutečnilo **6–7. září 2013 v Brně**.
+
+*Symposium TypeTalks se svým třetím ročníkem vrací zpět domů, do Brna! Můžete očekávat skvělou atmosféru, malou akci, mnoho přátelských kolegů a skvělé přednášející, kteří mají co říct. Celodenní sérii klasických přednášek bude předcházet ultrademokratický večer extrakrátkých prezentací (viz TypeShorts™) a workshop zaměřený na informační design. Konference je mezinárodní a většina přednášejících bude mluvit anglicky.*
+
+### Fotografie z akce ###
+
+[Flickr group](http://www.flickr.com/groups/2305999@N23/pool/)
+
+<iframe src="//player.vimeo.com/video/72956048?title=0&amp;byline=0&amp;portrait=0&amp;color=ffffff" 
+width="450" height="253" frameborder="0" class="animation">
+</iframe>
+
+
+
+<!--### Online registrace ###
+
+Účastníci symposia se musí předem registrovat.
+
+**TypeTalks:** volných {include_file: {filename: src/Symposium2013/_TypeTalksPlaces.txt}} ze 105 míst\\
+**TypeShorts:** vyprodáno
+
+[Registrace a ceny](Registration.html){:.button}
+
+**Online registrace byla ukončena.**{:.red} Několik volných vstupenek bude možné zakoupit na místě za cenu 84/64 € profesionál/student.-->
+
+
+### Workshop ###
+
+Symposiu bude předcházet workshop zaměřený na informační design. Povede ho vynikající finský designer Jasso Lamberg ve dnech 4–6. září.
+
+[Více o workshopu (anglicky)](Workshop.html){:.button}
+
+
+### Program symposia ###
+    
+
+<table cellspacing="0" cellpadding="0">
+<thead>
+    <tr>
+        <th colspan="3">1. den (TypeShorts), pátek, 6. září</th>
+    </tr>
+</thead>
+<tbody>
+  <tr>
+      <td class="td-time toprule" markdown="span">
+          17:02–17:29<br />
+          [Kabaret Špaček](Venues.html#TypeShorts)
+      </td>
+      <td class="td-content toprule" markdown="span">
+          Akreditace, výdej vstupenek atp.
+      </td>
+  </tr>
+  <tr>
+      <td class="td-time toprule talks" markdown="span">
+        17:30–19:56<br />
+        [Kabaret Špaček](Venues.html#TypeShorts)
+      </td>
+      <td class="td-content toprule talks" markdown="span">
+          **[TypeShorts™](TypeShorts.html)**<br />
+          Nejen písmaři prezentují pětiminutové plamenné přednášky.<br />
+          **[Seznam přednášek »](TypeShorts.html#Presentations)**
+      </td>
+  </tr>
+</tbody>
+
+<thead>
+    <tr>
+        <th colspan="3">2. den (TypeTalks), sobota, 7. září</th>
+    </tr>
+</thead>
+<tbody>
+  <tr>
+      <td class="td-time toprule" markdown="span">
+          9:30–9:56<br />
+          [Uměleckoprůmyslové muzeum](Venues.html#TypeTalks)
+      </td>
+      <td class="td-content toprule" markdown="span">
+          Akreditace, výdej vstupenek atp.
+      </td>
+  </tr>
+  
+  <tr>
+      <td class="td-time toprule talks" rowspan="5" markdown="span">
+          10:02–12:52<br />
+          [Uměleckoprůmyslové muzeum](Venues.html#TypeTalks)
+      </td>
+      <td class="td-content toprule talks" markdown="span">**David Březina (CZ)**<br />
+      Uvítání *</td>
+  </tr>
+  <tr>
+      <td class="td-content talks" markdown="span">**Ben Mitchell (GB)**<br />
+      Experiments with revivalism\\
+      [Více»](Talks.html#Ben)</td>
+  </tr>
+  <tr>
+      <td class="td-content talks" markdown="span">**Sonia de Puineuf (FR/SK)**<br />
+      Zdeněk Rossmann and the  graphic design networking\\
+        [Více»](Talks.html#Sonia)</td>
+  </tr>
+  <tr>
+      <td class="td-content talks" markdown="span">**Goran Patlejch (RS/CZ)**<br />
+      Dark side of lettering in public space\\
+        [Více»](Talks.html#Goran)</td>
+  </tr>
+  <tr>
+      <td class="td-content talks" markdown="span">**Claus Eggers Sørensen (DK/NL)**<br /> 
+      Post-paper\\
+      [Více»](Talks.html#Claus)</td> 
+  </tr>
+
+  <tr>
+      <td class="td-time toprule" markdown="span">13:03–14:42</td>
+      <td class="td-content toprule" markdown="span">Přestávka na oběd</td>  
+  </tr>
+
+  <tr>
+      <td class="td-time toprule talks" rowspan="4" markdown="span">
+        14:57–18:04<br />
+        [Uměleckoprůmyslové muzeum](Venues.html#TypeTalks)
+      </td>
+      <td class="td-content toprule talks" markdown="span">**prof. Radoslav Večerka (CZ)**<br />
+      O původu a grafickém charakteru hlaholice *\\
+      [Více»](Talks.html#Vecerka)</td>
+  </tr>
+  <tr>
+      <td class="td-content talks" markdown="span">**Laura Meseguer (ES)**<br />
+      Letters at work \\
+      [Více»](Talks.html#Laura)</td>
+  </tr>
+  <tr>
+      <td class="td-content talks" markdown="span">**Jasso Lamberg (FI/DE/GB)**<br />
+      Exploring newspaper genres\\
+      [Více»](Talks.html#Jasso)</td>
+  </tr>
+  <tr>
+      <td class="td-content talks" markdown="span">**Erik van Blokland (NL)**<br /> 
+      Optics and code  \\
+      [Více»](Talks.html#Erik)</td> 
+  </tr>
+
+  <tr>
+      <td class="td-time toprule" markdown="span">20:02–23:57<br />
+      Kabinet Múz
+      </td>
+      <td class="td-content toprule" markdown="span">**Party**\\
+      Přesněji Soul party</td>
+  </tr>
+</tbody>
+</table>
+
+[Více o přednáškách](Talks.html){:.button}
+[Více o TypeShorts](TypeShorts.html){:.button}
+
+Přednášky budou anglicky nebo česky (*). **Tlumočení nebude k dispozici.** Změna programu vyhrazena.
+
+--- name:sponsors
+{include_file: {filename: src/Symposium2013/Sponsors.cs.md}}

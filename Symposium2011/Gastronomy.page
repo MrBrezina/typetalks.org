@@ -1,0 +1,15 @@
+---
+title: Gastronomy
+in_menu: true
+sort_info: 15
+link: {javascript: ["http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js", "../_ss/fadeslideshow.js", "_ss/SymposiumSlideshow.js"]}
+---
+
+## Gastronomy ##
+
+Nearby restaurants have a special offer ready only for symposium participants.
+
+* **Tinta Bar**/ [http://www.tintabar.pl](http://www.tintabar.pl/articles.php?cont=articles&id=5)<br />10% discount and the possibility of booking a table, Wi-Fi,<br />tel. +48 61 853 21 10
+* **Restauracja Zielony Smok**/ [http://www.zielony-smok.pl/](http://www.zielony-smok.pl/)<br />discount and the possibility of booking a table, Wi-Fi,<br />tel. +48 61 851 35 95
+* **Green Way**/ [http://www.greenway.pl](http://www.greenway.pl/pl/dystrybutorzy/wielkopolskie/poznan23lutego)<br />vegetarian bar
+{:.lines}
