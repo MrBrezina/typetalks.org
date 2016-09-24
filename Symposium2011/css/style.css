@@ -26,7 +26,7 @@ body, html {
 	margin: 0;
 	margin-left: 340px;
 	padding: 0;
-	z-index: 5;
+	z-index: -1;
 }
 
 #picture p, #picture img {
@@ -58,8 +58,7 @@ body, html {
 #sidebar {
 	width: 220px;
 	font-size: 11px;
-	margin-top: 295px;
-	/*border-left: 1px solid #ccc;*/
+	margin-top: 354px; /* was 295px; */
 }
 
 #copyright {
@@ -98,23 +97,23 @@ body, html {
 	display: block;
 	margin: 0 0 2px 0;
 	padding: 3px;
-	color: #880f0f;
+	color: #000;
 	border: 0;
 	text-decoration: none;
 }
 
 #menu a, #menu span {
-	border-bottom: 3px solid #fff;
+	border-bottom: 3px solid #f7f7f7;
 }
 
 #menu a:hover, #menu span:hover {
-	border-bottom: 3px solid #f7f7f7;
+	border-bottom: 3px solid #ccc;
 }
 
 #menu .webgen-menu-level1 span,
 #menu .webgen-menu-submenu-inhierarchy a,
 #menu .webgen-menu-submenu-inhierarchy a:hover {
-	border-bottom: 3px solid #880f0f;
+	border-bottom: 3px solid rgb(253,185,19);
 }
 
 /* submenu */
@@ -125,7 +124,7 @@ body, html {
 }
 
 #menu .webgen-menu-level2 span {
-	border-bottom: 1px solid #880f0f;
+	border-bottom: 1px solid rgb(253,185,19);
 }
 
 #menu .webgen-menu-level2 a {
@@ -149,7 +148,7 @@ h1 {
 	margin: 0;
 	width: 100%;
 	height: 176px;
-	background: url(../_images/logo.png) no-repeat bottom left;
+	background: url(../img/logo.png) no-repeat bottom left;
 }
 
 h1 em {
@@ -165,9 +164,13 @@ h2 {
 
 h3 {
 	font-size: 120%;
-	margin: 0;
+	margin: 3em 0 0;
 	padding: 0 3px;
 	line-height: 28px;
+}
+
+#sidebar h3 {
+	margin: 0;
 }
 
 h3 em {
@@ -182,28 +185,44 @@ p {
 /* LINKS */
 
 a {
-	color: #880f0f;
-	border-bottom: 1px solid #c7a7a7;
+	color: rgb(253,185,19);
+	border-bottom: 1px solid rgb(243,218,95);
 	text-decoration: none;
 }
 
 a:hover {
-	border-bottom: 1px solid #880f0f;
+	border-bottom: 1px solid rgb(253,185,19);
 }
 
-.button, .button:hover  {
+.button, .button:hover, .redbutton  {
 	color: white;
 	font-weight: bold;
 	border: 0;
-	padding: 3px 6px 5px 6px;
-	background: #880f0f; /* efa608 */
+	padding: 5px 7px 6px;
+	background: rgb(255,200,74);
+}
+
+.button:hover {
+	background: rgb(253,185,19);
 }
 
 .button2, .button2:hover  {
 	color: white;
 	border: 0;
-	padding: 3px 6px 5px 6px;
-	background: #aaa; /* efa608 */
+	padding: 5px 7px 6px;
+	background: #bbb;
+}
+
+.button2:hover {
+	background: #aaa;
+}
+
+.redbutton {
+	background: #991F18;
+}
+.redbutton:hover {
+	text-decoration: none;
+	border: 0;
 }
 
 .noborder, .noborder:hover, .noborder img {
@@ -234,11 +253,11 @@ a:hover {
 }
 
 .lines li:first-child, .lines2 li:first-child {
-	border-top: 3px solid #880f0f;
+	border-top: 3px solid rgb(253,185,19);
 }
 
 .lines li:last-child {
-	border-bottom: 3px solid #880f0f;
+	border-bottom: 3px solid rgb(253,185,19);
 }
 
 .lines2 li:last-child {
@@ -248,6 +267,11 @@ a:hover {
 .gray {
 	color: #aaa;
 }
+
+.red {
+	color: #991F18;
+}
+
 
 /* FORMS */
 
@@ -275,22 +299,65 @@ input.text {
 	left: -3px;
 }
 
+
+/* PROGRAMME TABLES */
+
+table {
+	padding: 1em 0;
+	border-bottom: 3px solid rgb(253,185,19);
+}
+
+tr {
+	padding: 3px 0 0 0;
+}
+
+td, th {
+	text-align: left;
+	vertical-align: top;
+	margin: 0;
+	padding: .8em 1em;
+}
+
+th {
+	font-size: 120%;
+	background: rgb(253,185,19);
+	color: #FFF;
+}
+
+.td-time {
+	width: 100px;
+	text-align: right;
+}
+
+.td-venueA {
+	width: 20px;
+}
+
+.toprule {
+	border-top: 1px solid #ccc;
+}
+
+.talks {
+	background: #f0f0f0;
+}
+
+
 /* EMAILS */
 
 .email {
-	width: 860px;
+	width: 560px;
 }
 
 .email .notes, .email #notes_bottom {
 	color: #aaa;
 	font-size: 10px;
 	line-height: 18px;
-	width: 400px;
+	width: 500px;
 	padding-bottom: 3em;
 }
 
 .email #notes_bottom {
-	width: 830px;
+	width: 530px;
 	border-top: 1px solid #ccc;
 	padding-top: 1em;
 	margin-left: 30px;
@@ -302,16 +369,24 @@ input.text {
 	margin: 0;
 	width: 100%;
 	height: 106px;
-	background: url(../images/logo.png) no-repeat bottom left;
+	background: url(../img/logo.png) no-repeat bottom left;
 }
 
 .email #content1, .email #content2 {
 	float: left;
-	width: 400px;
+	width: 510px;
 	margin-top: 0;
 	margin-left: 30px;
 	margin-right: 0;
 	padding-bottom: 30px;
+}
+
+.marginalimage {
+	position: absolute;
+	/*float: right;*/
+	z-index: 2;
+	left: 560px;
+		top: 176px;
 }
 
 /* SPONSOR LOGOS */

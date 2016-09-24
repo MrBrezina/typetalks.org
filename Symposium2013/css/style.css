@@ -8,7 +8,7 @@ body, html {
 	line-height: 23px;
 }
 
-/* 880f0f */
+/* 00CBA3 */
 
 /* LAYOUT */
 
@@ -45,7 +45,8 @@ body, html {
 
 #menu {
 	width: 300px;
-	margin-top: 100px;
+	padding-top: 100px;
+	background: url(../img/logo_3.png) no-repeat 80px 0;
 }
 
 #content {
@@ -113,7 +114,7 @@ body, html {
 #menu .webgen-menu-level1 span,
 #menu .webgen-menu-submenu-inhierarchy a,
 #menu .webgen-menu-submenu-inhierarchy a:hover {
-	border-bottom: 3px solid rgb(253,185,19);
+	border-bottom: 3px solid #00CBA3;
 }
 
 /* submenu */
@@ -124,7 +125,7 @@ body, html {
 }
 
 #menu .webgen-menu-level2 span {
-	border-bottom: 1px solid rgb(253,185,19);
+	border-bottom: 1px solid #00CBA3;
 }
 
 #menu .webgen-menu-level2 a {
@@ -148,7 +149,7 @@ h1 {
 	margin: 0;
 	width: 100%;
 	height: 176px;
-	background: url(../_images/logo.png) no-repeat bottom left;
+	background: url(../img/logo.png) no-repeat bottom left;
 }
 
 h1 em {
@@ -158,14 +159,16 @@ h1 em {
 h2 {
 	font-size: 20px;
 	margin: 0 0 1.5em 0;
-	padding: 0 3px;
+	padding: 3px 0 3px 12px;
+	border-left: 7px solid #00CBA3;
 	line-height: 30px;
 }
 
 h3 {
 	font-size: 120%;
-	margin: 3em 0 0;
-	padding: 0 3px;
+	margin: 2em 0 0;
+	padding: 3px 0 3px 16px;
+	border-left: 3px solid #00CBA3;
 	line-height: 28px;
 }
 
@@ -185,13 +188,13 @@ p {
 /* LINKS */
 
 a {
-	color: rgb(253,185,19);
-	border-bottom: 1px solid rgb(243,218,95);
+	color: #00CBA3;
+	border-bottom: 1px solid #00FDBC;
 	text-decoration: none;
 }
 
 a:hover {
-	border-bottom: 1px solid rgb(253,185,19);
+	border-bottom: 1px solid #00CBA3;
 }
 
 .button, .button:hover, .redbutton  {
@@ -199,11 +202,11 @@ a:hover {
 	font-weight: bold;
 	border: 0;
 	padding: 5px 7px 6px;
-	background: rgb(255,200,74);
+	background: #00CBA3;
 }
 
 .button:hover {
-	background: rgb(253,185,19);
+	background: #00CBA3;
 }
 
 .button2, .button2:hover  {
@@ -243,9 +246,9 @@ a:hover {
 	display: block;
 	width: 100%;
 	margin: 0;
-	padding: 5px 3px 7px 3px;
-	border: 1px 0;
+	padding: 10px 3px 12px 3px;
 	border-top: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
 }
 
 .lines2 li {
@@ -253,15 +256,19 @@ a:hover {
 }
 
 .lines li:first-child, .lines2 li:first-child {
-	border-top: 3px solid rgb(253,185,19);
+	border-top: 3px solid #00CBA3;
 }
 
 .lines li:last-child {
-	border-bottom: 3px solid rgb(253,185,19);
+	border-bottom: 3px solid #00CBA3;
 }
 
 .lines2 li:last-child {
 	border-bottom: 0;
+}
+
+ol {
+	padding-left: 1.5em;
 }
 
 .gray {
@@ -304,7 +311,8 @@ input.text {
 
 table {
 	padding: 1em 0;
-	border-bottom: 3px solid rgb(253,185,19);
+	border-bottom: 3px solid #00CBA3;
+	width: 100%;
 }
 
 tr {
@@ -320,13 +328,18 @@ td, th {
 
 th {
 	font-size: 120%;
-	background: rgb(253,185,19);
+	background: #00CBA3;
 	color: #FFF;
 }
 
 .td-time {
 	width: 100px;
 	text-align: right;
+}
+
+.td-content {
+	width: 300px;
+	text-align: left;
 }
 
 .td-venueA {
@@ -369,7 +382,7 @@ th {
 	margin: 0;
 	width: 100%;
 	height: 106px;
-	background: url(../_images/logo.png) no-repeat bottom left;
+	background: url(../img/logo.png) no-repeat bottom left;
 }
 
 .email #content1, .email #content2 {

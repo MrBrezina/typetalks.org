@@ -2,15 +2,10 @@ var mygallery=new fadeSlideShow({
 	wrapperid: "slideshow", //ID of blank DIV on page to house Slideshow
 	dimensions: [450, 200], //width/height of gallery in pixels. Should reflect dimensions of largest image
 	imagearray: [
-		["_images/bw_brousil.jpg", "", "", ""],
-		["_images/bw_burian.jpg", "", "", ""],
-		["_images/bw_hardwig.jpg", "", "", ""],
-		["_images/bw_hardwig-1.jpg", "", "", ""],
-		["_images/bw_hardwig-2.jpg", "", "", ""],
-		["_images/bw_hardwig-3.jpg", "", "", ""],
-		["_images/bw_hochleitner.jpg", "", "", ""],
-		["_images/bw_keller.jpg", "", "", ""],
-		["_images/bw_reynolds.jpg", "", "", ""] //<--no trailing comma after very last image element!
+		["img/bw_favu-type-workshop-1.jpg", "", "", ""],
+		["img/bw_favu-type-workshop-2.jpg", "", "", ""],
+		["img/bw_favu-type-workshop-3.jpg", "", "", ""],
+		["img/bw_favu-type-workshop-4.jpg", "", "", ""] //<--no trailing comma after very last image element!
 	],
 	displaymode: {type:'auto', pause:2500, cycles:0, wraparound:true},
 	persist: true, //remember last viewed slide and recall within same session?
